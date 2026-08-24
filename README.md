@@ -45,7 +45,7 @@ Bank-level financial data manually collected from individual bank annual reports
 ## 📁 Files
 
 - `dashboard.xlsx` — source dashboard file (data, pivot tables, charts)
-- `dashboard_preview.png` — static preview of the dashboard
+- `Screenshot 2026-08-24 224935.png` — static preview of the dashboard
 
 ## 🚀 Note
 
