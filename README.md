@@ -2,7 +2,7 @@
 
 An Excel-based interactive dashboard analyzing the financial soundness of 9 major Bangladeshi banks (State-Owned Commercial Banks and Private Commercial Banks) over a 12-year period (2012–2023).
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard.xlsx)
 <!-- Replace dashboard_preview.png with your actual screenshot file name -->
 
 ## 📌 Project Objective
